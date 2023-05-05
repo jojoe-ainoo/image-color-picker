@@ -1,5 +1,3 @@
-# Assignment 2
-
 This is a C project using the `gtk3` and `cairo` graphics library to build an application
 
 ## Project Brief
